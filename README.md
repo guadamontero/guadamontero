@@ -1,7 +1,9 @@
 
-<h3 align="left">Hi, I'm Guadalupe Montero <img width="60" src="https://c.tenor.com/QpTLQALtdskAAAAi/hii-wave.gif"></h3>
-<img align="right" alt="Coding" width="250" src= "https://i.pinimg.com/originals/39/68/90/39689019d3019c7b87543a059944055a.gif">
-<h4 align="left">A passionate Developer from Córdoba, Argentina</h4>
+
+<img align="right" alt="Coding" width="350" src= "https://i.pinimg.com/originals/39/68/90/39689019d3019c7b87543a059944055a.gif">
+
+<h2 align="left">Hi, I'm Guadalupe Montero <img width="60" src="https://c.tenor.com/QpTLQALtdskAAAAi/hii-wave.gif"></h2>
+<h3 align="left">A passionate Developer from Córdoba, Argentina</h3>
 
 
 
