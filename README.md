@@ -30,7 +30,14 @@ public class Guada {
 }
 ```
 
+<p><em>Abbreviations I use in repository names:<em></p>
+<p><em>P: practise<em></p>
+    
+    
 <p align="center"><img src="https://c.tenor.com/cx2WkX4dFZEAAAAi/yoga-bear.gif" width="80" > </p>
 <p align="center"> <em>My mantra is: "Declare variables, not war 😂"<em>  <p>
+    
+
+
 
 
