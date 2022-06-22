@@ -1,8 +1,9 @@
 
-<img align="right" alt="Coding" width="250" src= "https://lh3.googleusercontent.com/cBz27GrYmVlVuK7b0rnYPeckU5txhoCyOmk5d2dobg_hUIEhkkacn03ZPTeMUhxQ6nN6A19AjbPSVgx1QHuXvp0NCJ5GnPJyr4fW47cuYX_YUyJjDWg-kqlSiHPO-sdlpIY6wotxhaVIrGViOZ3iDIzna7tUQhuChH-a99zhjMD6VJtlBxaLllxk_J1n0uSVmIOqQUqpKWAlLf9ub_eBzTw7lV_c3wuHq9WzviMINDIhKtFyUcIsY5XlAT2yx8-LRL9K4J0VhUh7F9vaTKLsHLpJA8xdjMA2RD3AwpynAXKw8lqIe8S9010F_835kURQM2DzMavIxw7BgUXRLSyF5MiyUeo9zXU01m2Kc5TQHrimXc0SJvxCrrJGdkNkIHEfdnZ-ySrE5DxKsUxA1FyQyFYhAIucuPG9FIFvnNWpGbKlQ6XW__A-llOPMFdNW0esTwigBHARYlA56YWEnaJOMqU5JLhKMMV4y3yEh0vPSqOh16h0pSOwlQHBPikE3OEMC5BVH3-UbKRw0xk-rHbx6A-xAUY0LWcvwdLow_BTzAj1sffX2Me-EjzvJYJjD6O9r-D0PO6OXWve7qk1fgEsHntmtTSijHrXsjUMHqKy-7In8dS2oe5dWfdCUrAdHCoXc6LSTEyZNphD8OCsLeXp6cmp97io2Y-3k59giKlTc6rKn9xCYVoAytRXAAF9gKEVoSKAihlm3vA4xJPFrgnBJi1Mpxe2Sk8OjalvUOMp7EH7GN_pKcC3DuDj8J2ucto=s254-no?authuser=0">
-
-<h3 align="left">Hi, I'm Guadalupe Montero <img width="60" src="https://c.tenor.com/yCFHzEvKa9MAAAAi/hello.gif"></h3>
+<h3 align="left">Hi, I'm Guadalupe Montero <img width="60" src="https://c.tenor.com/QpTLQALtdskAAAAi/hii-wave.gif"></h3>
+<img align="right" alt="Coding" width="250" src= "https://i.pinimg.com/originals/39/68/90/39689019d3019c7b87543a059944055a.gif">
 <h4 align="left">A passionate Developer from Córdoba, Argentina</h4>
+
+
 
 
 
