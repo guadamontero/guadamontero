@@ -31,7 +31,7 @@ public class Guada {
 ```
 
 <p><em>How do I name the repositories:<em></p>
-<p><em>First is P of practise, then is the number of that practise, the tecnology that is used in that repository and finally in some of the repositories I put the name of the project or more explanations about the code.<em></p>
+<p><em>First is P of practice, then is the number of that practise, the tecnology that is used in that repository and finally in some of the repositories I put the name of the project or more explanations about the code.<em></p>
     
     
 <p align="center"><img src="https://c.tenor.com/cx2WkX4dFZEAAAAi/yoga-bear.gif" width="80" > </p>
