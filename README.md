@@ -7,19 +7,22 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  If you want to know more about me...  
 
-```java
-public class Guada {
-    private String pronouns;
-    private String frontEnd;
-    private String backEnd;
-    private String dataBase;
-
-    public Guada(String pronouns, String frontEnd, String backEnd, String dataBase) {
-        this.pronouns = "she | her";
-        this.frontEnd = "JavaScript, HTML5, CSS, SASS";
-        this.backEnd = "Java, Spring Boot, Hibernate";
-        this.dataBase = "MySQL";
-    }
+```javaScript
+const Guada = {
+  pronouns: "she" | "her",
+  code: [Javascript,  HTML5, CSS],
+  technologies: {
+      frontEnd: {
+         js: ["React"],
+      },
+      backEnd: {
+         js: ["Java", "SpringBoot", "Hibernate"],
+         
+      },
+      databases: ["MySQL"],
+      
+   }
+ 
 }
 ```
 
