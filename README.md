@@ -15,13 +15,6 @@ public class Guada {
     private String dataBase;
 
     public Guada(String pronouns, String frontEnd, String backEnd, String dataBase) {
-        this.pronouns = pronouns;
-        this.frontEnd = frontEnd;
-        this.backEnd = backEnd;
-        this.dataBase = dataBase;
-    }
-
-    public Guada() {
         this.pronouns = "she | her";
         this.frontEnd = "JavaScript, HTML5, CSS, SASS";
         this.backEnd = "Java, Spring Boot, Hibernate";
