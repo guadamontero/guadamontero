@@ -16,7 +16,7 @@ const Guada = {
          js: ["React"],
       },
       backEnd: {
-         js: ["Java", "SpringBoot", "Hibernate"],
+         java: ["SpringBoot", "Hibernate"],
          
       },
       databases: ["MySQL"]
