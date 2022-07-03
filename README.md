@@ -19,8 +19,7 @@ const Guada = {
          js: ["Java", "SpringBoot", "Hibernate"],
          
       },
-      databases: ["MySQL"],
-      
+      databases: ["MySQL"]
    }
  
 }
