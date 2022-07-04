@@ -10,7 +10,7 @@
 ```javaScript
 const Guada = {
   pronouns: "she" | "her",
-  code: [Javascript,  HTML5, CSS],
+  code: [Javascript,  HTML5, CSS, Java],
   technologies: {
       frontEnd: {
          js: ["React"],
