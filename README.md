@@ -21,7 +21,6 @@ const Guada = {
       },
       databases: ["MySQL"]
    }
- 
 }
 ```
 
