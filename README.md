@@ -47,9 +47,9 @@ const Guada = {
 </p> -->
 
 
-## Social
+## LinkedIn
 
-<a href="https://www.linkedin.com/in/daniel-gregorio-garc%C3%ADa-57ab9214a/" ><img src="https://img.shields.io/badge/Guadalupe Montero-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href="https://www.linkedin.com/in/guadalupe-montero/" ><img src="https://img.shields.io/badge/Guadalupe Montero-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 
 
