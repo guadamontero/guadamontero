@@ -3,7 +3,7 @@
 <h3 align="left">I'm a passionate <em>Full Stack Developer student</em> from Córdoba, Argentina</h3>
 <p><em>I’m currently studying a career called Certified Tech Developer designed by Mercado Libre, Globant and Digital House<em></p>
 
-### <img src="https://c.tenor.com/UhLv_deOrtMAAAAi/happy-milk-peach-happy.gif" width="50">  If you want to know more about me...  
+### If you want to know more about me <img src="https://c.tenor.com/UhLv_deOrtMAAAAi/happy-milk-peach-happy.gif" width="50">
 
 ```javaScript
 const Guada = {
