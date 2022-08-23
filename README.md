@@ -49,7 +49,7 @@ const Guada = {
 
 ## Social
 
-<a href="https://www.linkedin.com/in/daniel-gregorio-garc%C3%ADa-57ab9214a/" ><img src="https://img.shields.io/badge/Gregorio Garcia-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href="https://www.linkedin.com/in/daniel-gregorio-garc%C3%ADa-57ab9214a/" ><img src="https://img.shields.io/badge/Guadalupe Montero-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 
 
