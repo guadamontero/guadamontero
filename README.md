@@ -24,7 +24,7 @@ const Guada = {
 }
 ```
 
-## 🛠 Languages and tools
+## Languages and tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="50"/> 
@@ -47,20 +47,7 @@ const Guada = {
 </p> -->
 
 
-
-
-
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dgarciadani&layout=compact&langs_count=5&theme=tokyonight" alt="Grego's" />
-</p>
-
-
-
-
-
-
-## 🔗👨🏽‍💻 Social
+## Social
 
 <a href="https://www.linkedin.com/in/daniel-gregorio-garc%C3%ADa-57ab9214a/" ><img src="https://img.shields.io/badge/Gregorio Garcia-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
