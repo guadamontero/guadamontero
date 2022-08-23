@@ -24,11 +24,6 @@ const Guada = {
 }
 ```
 
-    
-    
-<p align="center"><img src="https://c.tenor.com/cx2WkX4dFZEAAAAi/yoga-bear.gif" width="80" > </p>
-<p align="center"> <em>My mantra is: "Declare variables, not war 😂"<em>  <p>
-    
 
 
 
