@@ -1,7 +1,6 @@
 <h2 align="left">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25" height="25px"> my name is Guadalupe, but you can call me Guada ☺️ </h2>
 
 <h3 align="left">I'm a <em>Front End Developer</em> from Córdoba, Argentina</h3>
-
 ### If you want to know more about me <img src="https://c.tenor.com/UhLv_deOrtMAAAAi/happy-milk-peach-happy.gif" width="40">
 
 ```javaScript
@@ -10,9 +9,7 @@ const Guada = {
   code: [Javascript,  HTML5, CSS, Java],
   technologies: {
       frontEnd: {
-         js: ["React"],
-         js: ["Redux"],
-         js: ["TypeScript"]
+         js: ["React", "Redux", "TypeScrip"],
       },
       backEnd: {
          java: ["SpringBoot", "Hibernate"],
