@@ -11,12 +11,13 @@ const Guada = {
   technologies: {
       frontEnd: {
          js: ["React"],
+         js: ["Redux"],
+         js: ["TypeScript"]
       },
       backEnd: {
          java: ["SpringBoot", "Hibernate"],
-         
       },
-      databases: ["MySQL, MongoDB"]
+      databases: ["MySQL"]
    }
 }
 ```
