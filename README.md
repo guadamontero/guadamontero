@@ -9,7 +9,7 @@ const Guada = {
   code: [Javascript,  HTML5, CSS, Java],
   technologies: {
       frontEnd: {
-         js: ["React", "Redux", "TypeScrip"],
+         js: ["React", "Redux", "TypeScript"],
       },
       backEnd: {
          java: ["SpringBoot", "Hibernate"],
